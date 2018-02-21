@@ -4,7 +4,7 @@ import org.apache.kafka.common.serialization.StringSerializer;
 
 import java.util.Properties;
 
-public class KafkaProducer {
+public class KafkaProducerDemo {
     public static void main(String args[]) {
         Properties properties = new Properties();
 
